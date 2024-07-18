@@ -1,7 +1,7 @@
 # TASK: Setup and document ELK with metric beats.
 
-## Course Title: DeVops and Cloud Computing
-## Group Members: Sammreen Amir    Zeeshan Riaz
+### Course Title: DeVops and Cloud Computing
+### Group Members: Sammreen Amir    Zeeshan Riaz
 
 
 ## Step 1: Update All installed packages on a system 
